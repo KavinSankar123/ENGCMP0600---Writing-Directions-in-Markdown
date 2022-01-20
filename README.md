@@ -2,6 +2,7 @@
 This tutorial will teach you how to play disk golf! Why? Because it is fun and more exciting than regular golf.
 
 ## Objective
+![Disk Gold Image](https://s.hdnux.com/photos/01/13/14/55/19712850/3/2400x0.jpg)
 Throw your disk into each basket in the least amount of throws possible.
 
 ## Materials Needed
@@ -39,7 +40,7 @@ Make sure to avoid getting hit by flying disks.
 - Walk towards your disk after it landed and locate it.
 
 ### **7. Repeat Steps 3, 4, 5, 6**
-- Repeat the above steps UNTIL you are approximately 50ft away from the basket.
+- Repeat the above steps **until** you are approximately 50ft away from the basket.
 
 ### **8. Throwing your Putter**
 - Grab your putter and follow the procedure from step 5.
