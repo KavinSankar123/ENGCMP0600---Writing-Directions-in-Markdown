@@ -1,8 +1,8 @@
 # How to Play Disk Golf
+![Disk Gold Image](https://s.hdnux.com/photos/01/13/14/55/19712850/3/2400x0.jpg)
 This tutorial will teach you how to play disk golf! Why? Because it is fun and more exciting than regular golf.
 
 ## Objective
-![Disk Gold Image](https://s.hdnux.com/photos/01/13/14/55/19712850/3/2400x0.jpg)
 Throw your disk into each basket in the least amount of throws possible.
 
 ## Materials Needed
