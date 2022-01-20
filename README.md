@@ -18,6 +18,7 @@ Make sure to avoid getting hit by flying disks.
 - Next to the throwing platform, look at the map indicating the location of the basket and determine the direction you need to throw.
 
 ### **3. Gripping the Disk**
+![Image of Grip](https://discgolfmentor.com/wp-content/uploads/2019/08/power-grip-1-1024x388.jpg)
 - Grab your driver and step onto the throwing platform.
 - Use your dominant hand to hold the disk.
 - Place all your fingers except your thumb on the edge of the underside of the disk.
@@ -32,6 +33,26 @@ Make sure to avoid getting hit by flying disks.
 - Do some practice swings to get used to the motion.
 - When you’re ready, throw the disk.
   - Make sure to throw it flat upon releasing.
+
+### **6. Follow the Flight Path of the Disk**
+- After throwing, follow the disk with your eyes.
+- Walk towards your disk after it landed and locate it.
+
+### **7. Repeat Steps 3, 4, 5, 6**
+- Repeat the above steps UNTIL you are approximately 50ft away from the basket.
+
+### **8. Throwing your Putter**
+- Grab your putter and follow the procedure from step 5.
+- Try to throw the putter into the basket.
+
+### **9. Completing the Course**
+- Grab your disk from the basket.
+- Record the number of throws you made for the basket you just completed.
+- Move onto the next basket.
+- Repeat steps 2 through 8 until you completed all baskets.
+
+
+
 
 
 
