@@ -24,5 +24,15 @@ Make sure to avoid getting hit by flying disks.
 - Place your thumb on the surface and have a firm grip.
   - (See the figure above for how the grip should look)
 
+### **4. Positioning your Body**
+- Position your body parallel to the direction you want to throw.
+
+### **5. Throwing the Disk**
+- Bring the disk to your other shoulder.
+- Do some practice swings to get used to the motion.
+- When you’re ready, throw the disk.
+  - Make sure to throw it flat upon releasing.
+
+
 
 
