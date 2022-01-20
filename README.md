@@ -11,7 +11,7 @@ You will need two types of disks: a driver for long-range throws and a putter fo
 Make sure to avoid getting hit by flying disks.
 
 ### Steps
-**### 1. Determine your group order (Skip to step 2 if playing alone)**
+# **1. Determine your group order (Skip to step 2 if playing alone)**
 - Before you start your first basket, determine the order of who will throw as a group.
 
 **2. Locating your Basket**
